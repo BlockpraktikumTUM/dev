@@ -13,6 +13,5 @@ MainWindow::~MainWindow()
     delete ui;
     /*Changed some things*/
 
-
-
+ /*Don't do things like this*/
 }
