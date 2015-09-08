@@ -12,4 +12,7 @@ MainWindow::~MainWindow()
 {
     delete ui;
     /*Changed some things*/
+
+
+
 }
